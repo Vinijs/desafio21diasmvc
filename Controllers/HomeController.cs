@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
+using System.Text;
 using System.Threading.Tasks;
 using WebMVCRazor.Models;
 
@@ -26,6 +27,7 @@ namespace WebMVCRazor.Controllers
         [Route("/politica-de-privacidade")]
         public IActionResult Privacy()
         {
+            ViewBag.OlaDouglas = "Olá Douglas";
             return View();
         }
 
