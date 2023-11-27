@@ -8,7 +8,6 @@ C:\Users\Vinicius\source\repos\WebMVCRazor\bin\Debug\netcoreapp3.1\WebMVCRazor.d
 C:\Users\Vinicius\source\repos\WebMVCRazor\bin\Debug\netcoreapp3.1\WebMVCRazor.pdb
 C:\Users\Vinicius\source\repos\WebMVCRazor\bin\Debug\netcoreapp3.1\WebMVCRazor.Views.dll
 C:\Users\Vinicius\source\repos\WebMVCRazor\bin\Debug\netcoreapp3.1\WebMVCRazor.Views.pdb
-C:\Users\Vinicius\source\repos\WebMVCRazor\obj\Debug\netcoreapp3.1\WebMVCRazor.csproj.AssemblyReference.cache
 C:\Users\Vinicius\source\repos\WebMVCRazor\obj\Debug\netcoreapp3.1\WebMVCRazor.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Vinicius\source\repos\WebMVCRazor\obj\Debug\netcoreapp3.1\WebMVCRazor.AssemblyInfoInputs.cache
 C:\Users\Vinicius\source\repos\WebMVCRazor\obj\Debug\netcoreapp3.1\WebMVCRazor.AssemblyInfo.cs
@@ -35,3 +34,8 @@ C:\Users\Vinicius\source\repos\WebMVCRazor\obj\Debug\netcoreapp3.1\WebMVCRazor.p
 C:\Users\Vinicius\source\repos\WebMVCRazor\obj\Debug\netcoreapp3.1\WebMVCRazor.genruntimeconfig.cache
 C:\Users\Vinicius\source\repos\WebMVCRazor\obj\Debug\netcoreapp3.1\WebMVCRazor.csproj.CopyComplete
 C:\Users\Vinicius\source\repos\WebMVCRazor\obj\Debug\netcoreapp3.1\Razor\Views\Home\Class.cshtml.g.cs
+C:\Users\Vinicius\source\repos\WebMVCRazor\obj\Debug\netcoreapp3.1\staticwebassets\WebMVCRazor.StaticWebAssets.Pack.cache
+C:\Users\Vinicius\source\repos\WebMVCRazor\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebMVCRazor.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Vinicius\source\repos\WebMVCRazor\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebMVCRazor.props
+C:\Users\Vinicius\source\repos\WebMVCRazor\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebMVCRazor.props
+C:\Users\Vinicius\source\repos\WebMVCRazor\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebMVCRazor.props

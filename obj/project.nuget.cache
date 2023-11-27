@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "nf0KmkSbsODzfUrbPlIRRQ3GOnIHmae3OH6TQoxpGbtLPL2eyLS0aJs6QLEuwgL99bz8NEBH+7yUzkD2Kq9tzg==",
+  "dgSpecHash": "gqFHM5n7qPe3jQIHmygaSV/oJJDVTyIDBgAS1QXzylXWWYDMH4tEV5d/xlyoSus7xHbzod6HZDMpjCGlko4rCg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Vinicius\\source\\repos\\WebMVCRazor\\WebMVCRazor.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Vinicius\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

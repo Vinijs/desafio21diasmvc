@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vinicius\\source\\repos\\WebMVCRazor\\WebMVCRazor.csproj",
+      "projectUniqueName": "c:\\Users\\Vinicius\\source\\repos\\WebMVCRazor\\WebMVCRazor.csproj",
       "projectName": "WebMVCRazor",
-      "projectPath": "C:\\Users\\Vinicius\\source\\repos\\WebMVCRazor\\WebMVCRazor.csproj",
+      "projectPath": "c:\\Users\\Vinicius\\source\\repos\\WebMVCRazor\\WebMVCRazor.csproj",
       "packagesPath": "C:\\Users\\Vinicius\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vinicius\\source\\repos\\WebMVCRazor\\obj\\",
+      "outputPath": "c:\\Users\\Vinicius\\source\\repos\\WebMVCRazor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vinicius\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,10 +51,17 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.32, 3.1.32]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -63,7 +70,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

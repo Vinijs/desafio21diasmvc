@@ -21,6 +21,7 @@ namespace WebMVCRazor.Controllers
 
         public IActionResult Index()
         {
+            ViewBag.clientes = Cliente.Todos();
             return View();
         }
 
@@ -29,6 +30,15 @@ namespace WebMVCRazor.Controllers
         {
             ViewBag.OlaDouglas = "Olá Douglas";
             return View();
+        }
+
+        [Route("/adicionar-cliente")]
+        public string AddClient()
+        {
+            new Cliente(){Id = 5, Nome = "Lana", Telefone = "12343213"}.Salvar();
+
+
+            return "Cliente salvo";
         }
 
         public IActionResult Class()
